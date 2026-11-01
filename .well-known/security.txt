@@ -1,0 +1,4 @@
+Contact: mailto:lias.dev01@gmail.com
+Canonical: https://lias-dev.com/.well-known/security.txt
+Preferred-Languages: es, en
+Expires: 2027-08-24T00:00:00.000Z
